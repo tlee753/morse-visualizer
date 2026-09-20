@@ -18,3 +18,6 @@ Just a fun little program to help learn morse code graphically
 ```bash
 cargo build --target x86_64-pc-windows-gnu --release
 ```
+
+### Todo
+- [ ] Add input history
