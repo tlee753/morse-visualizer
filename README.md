@@ -11,7 +11,8 @@ Just a fun little program to help learn morse code graphically
 ![Version 1.0](v1.0.png)
 
 ### Ideation
-- reddit :D
+- Credit to reddit :D
+
 ![Ideation](ideation.png)
 
 ### Windows Cross Compilation
